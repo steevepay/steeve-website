@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steevep.com</id>
     <title>Steeve Payraudeau</title>
-    <updated>2020-03-31T10:29:13.859Z</updated>
+    <updated>2020-03-31T10:45:33.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steevep.com"/>
     <link rel="self" href="https://steevep.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Steeve&apos;s projects and random things</subtitle>
     <logo>https://steevep.com/images/avatar.png</logo>
     <icon>https://steevep.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Steeve Payraudeau</rights>
